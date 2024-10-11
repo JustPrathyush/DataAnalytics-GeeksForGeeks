@@ -2,7 +2,11 @@
 
 ## Week 1: Excel
   Day 1: Introduction to Excel for Data Analysis
-    
+  
+  [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day1_6July_%5BExcel_Basics%5D/Day1_Notes.pdf)
+  
+  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day1_6July_%5BExcel_Basics%5D/Day1.xlsx)
+  
     Overview of Excel interface
     Basics of navigating and working with sheets
     Introduction to cells, rows, columns, and ranges
