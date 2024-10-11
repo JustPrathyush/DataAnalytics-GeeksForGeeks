@@ -1,6 +1,6 @@
 # DataAnalytics-GeeksForGeeks
 
-Week 1: Excel
+## Week 1: Excel
   Day 1: Introduction to Excel for Data Analysis
     
     Overview of Excel interface
@@ -27,7 +27,7 @@ Week 1: Excel
     Time-saving shortcuts and productivity hacks
     Excel with AI
     
-02Week 2: SQL
+## Week 2: SQL
 
   Day 1: Introduction to SǪL and Database Fundamentals
 
@@ -40,5 +40,5 @@ Week 1: Excel
   Day 2: Retrieving Data with SELECT Statements
 
     Basics of SELECT statements
-Filtering data with WHERE clause
-Sorting results with ORDER BY
+    Filtering data with WHERE clause
+    Sorting results with ORDER BY
