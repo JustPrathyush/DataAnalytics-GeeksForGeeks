@@ -1,4 +1,4 @@
-# DataAnalytics-GeeksForGeeks
+# DataAnalytics - GeeksForGeeks
 
 ## Week 1: Excel
 #### Day 1: Introduction to Excel for Data Analysis
