@@ -57,6 +57,7 @@
 
     -Introduction to window functions
     -Performing analytic queries with OVER clause
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day6_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day6_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
 
 ## Week 4: Advance SǪL
 
