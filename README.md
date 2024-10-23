@@ -52,6 +52,7 @@
     -Grouping data with GROUP BY
     -Working with complex WHERE conditions
     -Using operators (AND, OR, NOT, etc)
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day5_20July_%5BSQL%5D/Notes%20-%20Aggregation%26Grouping.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day5_20July_%5BSQL%5D/Aggregation%20%26%20Grouping%20Functions.sql)
 
 #### Day 6: Window Functions and Analytic Ǫueries
 
