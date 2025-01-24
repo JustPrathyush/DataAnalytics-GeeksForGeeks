@@ -72,7 +72,7 @@
 
     -Performing INNER and OUTER joins
     -Using subqueries for complex queries
-[Notes📒](github.com/justprathyush/dataanalytics-geeksforgeeks/blob/main/day07-27july_%5bsql%5d/notes%20-%20joins%20and%20subqueries.pdf), [Code👨‍💻]()
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day07-27July_%5BSQL%5D/Notes%20-%20Joins%20and%20Subqueries.pdf), [Code👨‍💻]()
 
 #### Day 2: Case Statements and CTE Ǫueries
 
