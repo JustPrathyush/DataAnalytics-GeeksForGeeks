@@ -68,13 +68,18 @@
 
 ## Week 4: Advance SǪL
 
-#### Day 7: Joins and Subqueries
+#### Day 7: Joins, Subqueries, Case Statements and CTE Ǫueries
 
     -Performing INNER and OUTER joins
     -Using subqueries for complex queries
+    -Understanding and using CASE statements in SǪL
+    -Applying CASE statements in data analysis scenarios
+    -Introduction to Common Table Expressions
+    -Using CTEs for recursive queries and data manipulation 
+
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day07-27July_%5BSQL%5D/Notes%20-%20Joins%20and%20Subqueries.pdf), [Code👨‍💻]()
 
-#### Day 2: Case Statements and CTE Ǫueries
+#### Day 8: Case Statements and CTE Ǫueries
 
     -Understanding and using CASE statements in SǪL
     -Applying CASE statements in data analysis scenarios
@@ -83,13 +88,13 @@
 
 ## Week 5: More on SQL
 
-#### Day 1: Time-saving shortcuts and productivity hack
+#### Day 9: Time-saving shortcuts and productivity hack
 
     -Optimization of queries
     -Optimization of queries using AI
     -Interview based SǪL queries
 
-#### Day 2: Working on live project
+#### Day 10: Working on live project
 
 Working on industry orient data
 Problem-solving using SǪL on industrial data
