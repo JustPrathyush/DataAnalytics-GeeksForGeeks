@@ -3,7 +3,7 @@
 ## Week 01: Excel
 #### Day 01: Introduction to Excel for Data Analysis
 
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day1_6July_%5BExcel_Basics%5D/Day1_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day1_6July_%5BExcel_Basics%5D/Day1.xlsx)
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day01_6July_%5BExcel_Basics%5D/Day1_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day01_6July_%5BExcel_Basics%5D/Day1.xlsx)
 
     -Overview of Excel interface
     -Basics of navigating and working with sheets
@@ -14,7 +14,7 @@
 
 #### Day 02: Advanced Formulas and Functions
 
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day2_7July_%5BExcel%20Advanced%5D/Day2_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/tree/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day2_7July_%5BExcel%20Advanced%5D)
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day02_7July_%5BExcel%20Advanced%5D/Day2_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/tree/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day02_7July_%5BExcel%20Advanced%5D)
  
     -Working with logical functions (IF, AND, OR)
     -Exploring lookup functions (VLOOKUP, HLOOKUP, INDEX, MATCH)
@@ -35,7 +35,7 @@
 ## Week 02: SQL
 #### Day 03: Introduction to SǪL and Database Fundamentals
 
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day3_13July_%5BSQL%5D/Day3_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day3_13July_%5BSQL%5D/Basics%20Of%20SQL.sql)
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Day3_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day03_13July_%5BSQL%5D/Basics%20Of%20SQL.sql)
 
     -Overview of SǪL and its applications
     -Introduction to Relational Databases
@@ -49,7 +49,7 @@
     -Basics of SELECT statements
     -Filtering data with WHERE clause
     -Sorting results with ORDER BY
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day4_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day4_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
 ## Week 03: Advanced SǪLTechniques
 #### Day 05: Aggregation and Grouping
@@ -58,13 +58,13 @@
     -Grouping data with GROUP BY
     -Working with complex WHERE conditions
     -Using operators (AND, OR, NOT, etc)
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day5_20July_%5BSQL%5D/Notes%20-%20Aggregation%26Grouping.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day5_20July_%5BSQL%5D/Aggregation%20%26%20Grouping%20Functions.sql)
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day05_20July_%5BSQL%5D/Notes%20-%20Aggregation%26Grouping.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day05_20July_%5BSQL%5D/Aggregation%20%26%20Grouping%20Functions.sql)
 
 #### Day 06: Window Functions and Analytic Ǫueries
 
     -Introduction to window functions
     -Performing analytic queries with OVER clause
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day6_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day6_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
 
 ## Week 04: Advance SǪL
 
@@ -84,16 +84,17 @@
 
 ## Week 05: More on SQL
 
+#### Day 09: Working on live project
+
+    -Working on industry orient data
+    -Problem-solving using SǪL on industrial data
+
 #### Day 09: Time-saving shortcuts and productivity hack
 
     -Optimization of queries
     -Optimization of queries using AI
     -Interview based SǪL queries
 
-#### Day 10: Working on live project
-
-Working on industry orient data
-Problem-solving using SǪL on industrial data
 06Week 6: Introduction to Python for Data Analysis
 Day 1: Introduction to Python and Jupyter Notebooks
 
