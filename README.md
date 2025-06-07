@@ -86,11 +86,21 @@
 
 ## Week 05: More on SQL
 
-#### Day 09 & 10: Working on live project
+#### Day 09 & 10: SQL Project - E-commerce Sales Database
 
-    -Working on real-world datasets
-    Applying SQL skills to industrial data
-    Problem-solving and query building
+    -Created and managed a new MySQL database ecommerce_db
+    -Built Sales_Dataset table with comprehensive schema for sales data
+    -Loaded CSV data into MySQL handling tricky date formats with STR_TO_DATE()
+    -Executed essential SQL queries for data retrieval and analysis:
+        -Customer details by ship date
+        -Yearly average and total sales
+        -Calculated company cost (discount + shipping)
+        -Conditional flags for discounted orders
+        -Top products and state-wise shipping costs
+        -Profit margin calculations and filtering profitable products
+        -Advanced queries using CTEs (Common Table Expressions) and window functions (LAG, LEAD)
+        -Explained and implemented LIMIT & OFFSET for pagination
+        -Differentiated between UNION and UNION ALL
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
 
