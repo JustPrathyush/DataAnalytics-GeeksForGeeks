@@ -82,28 +82,30 @@
     -Introduction to Common Table Expressions
     -Using CTEs for recursive queries and data manipulation 
 
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
+
 ## Week 05: More on SQL
 
-#### Day 09: Working on live project
+#### Day 09 & 10: Working on live project
 
-    -Working on industry orient data
-    -Problem-solving using SǪL on industrial data
+    -Working on real-world datasets
+    Applying SQL skills to industrial data
+    Problem-solving and query building
 
-#### Day 09: Time-saving shortcuts and productivity hack
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
 
-    -Optimization of queries
-    -Optimization of queries using AI
-    -Interview based SǪL queries
+## Week 06: Introduction to Python for Data Analysis
+#### Day 11: Introduction to Python and Jupyter Notebooks
 
-06Week 6: Introduction to Python for Data Analysis
-Day 1: Introduction to Python and Jupyter Notebooks
+    -Overview of Python programming language
+    -Introduction to Jupyter Notebooks for data analysis
+    -Variables, data types, and basic operations
+    -Lists, tuples, and dictionaries
+    -Inbuilt functions
 
-Overview of Python programming language
-Introduction to Jupyter Notebooks for data analysis
-Variables, data types, and basic operations
-Lists, tuples, and dictionaries
-Inbuilt functions
-Day 2: Data Manipulation with Python
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
+
+#### Day 12: Data Manipulation with Python
 
 Conditional statements and loops
 User deﬁned functions
