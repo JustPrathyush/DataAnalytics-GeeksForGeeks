@@ -94,6 +94,16 @@
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
 
+#### Day 10: Introduction to Python Basics and Data Types
+    -Setting up Jupyter Notebook with Miniconda
+    -Performing simple arithmetic operations
+    -Understanding core Python data types: int, str, float, bool, and complex
+    -Exploring type identification with type()
+    -String operations: indexing, slicing, reversing, and palindrome checking
+    -Typecasting between data types for flexible data manipulation
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
+
 ## Week 06: Introduction to Python for Data Analysis
 #### Day 11: Introduction to Python and Jupyter Notebooks
 
