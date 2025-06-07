@@ -1,7 +1,7 @@
 # DataAnalytics - GeeksForGeeks
 
-## Week 1: Excel
-#### Day 1: Introduction to Excel for Data Analysis
+## Week 01: Excel
+#### Day 01: Introduction to Excel for Data Analysis
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day1_6July_%5BExcel_Basics%5D/Day1_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/c9ab69086cbfa982bdda56c716534763d09d99de/Day1_6July_%5BExcel_Basics%5D/Day1.xlsx)
 
@@ -12,7 +12,7 @@
     -Working with mathematical and statistical functions
     -Introduction to text functions for data manipulation
 
-#### Day 2: Advanced Formulas and Functions
+#### Day 02: Advanced Formulas and Functions
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day2_7July_%5BExcel%20Advanced%5D/Day2_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/tree/a35d2cc0875583f6af44c8e8d16038d8b9c41070/Day2_7July_%5BExcel%20Advanced%5D)
  
@@ -32,8 +32,8 @@
     -Excel with AI
 
 
-## Week 2: SQL
-#### Day 3: Introduction to SǪL and Database Fundamentals
+## Week 02: SQL
+#### Day 03: Introduction to SǪL and Database Fundamentals
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day3_13July_%5BSQL%5D/Day3_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day3_13July_%5BSQL%5D/Basics%20Of%20SQL.sql)
 
@@ -44,15 +44,15 @@
     -Understanding data types and constraints
 
   
-#### Day 4: Retrieving Data with SELECT Statements
+#### Day 04: Retrieving Data with SELECT Statements
 
     -Basics of SELECT statements
     -Filtering data with WHERE clause
     -Sorting results with ORDER BY
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day4_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day4_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
-## Week 3: Advanced SǪLTechniques
-#### Day 5: Aggregation and Grouping
+## Week 03: Advanced SǪLTechniques
+#### Day 05: Aggregation and Grouping
 
     -Understanding aggregate functions (SUM, AVG, COUNT)
     -Grouping data with GROUP BY
@@ -60,15 +60,15 @@
     -Using operators (AND, OR, NOT, etc)
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day5_20July_%5BSQL%5D/Notes%20-%20Aggregation%26Grouping.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day5_20July_%5BSQL%5D/Aggregation%20%26%20Grouping%20Functions.sql)
 
-#### Day 6: Window Functions and Analytic Ǫueries
+#### Day 06: Window Functions and Analytic Ǫueries
 
     -Introduction to window functions
     -Performing analytic queries with OVER clause
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day6_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day6_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
 
-## Week 4: Advance SǪL
+## Week 04: Advance SǪL
 
-#### Day 7: Joins, Subqueries, Case Statements and CTE Ǫueries
+#### Day 07: Joins, Subqueries, Case Statements and CTE Ǫueries
 
     -Performing INNER and OUTER joins
     -Using subqueries for complex queries
@@ -79,16 +79,16 @@
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day07-27July_%5BSQL%5D/Notes%20-%20Joins%20and%20Subqueries.pdf), [Code👨‍💻]()
 
-#### Day 8: Case Statements and CTE Ǫueries
+#### Day 08: Case Statements and CTE Ǫueries
 
     -Understanding and using CASE statements in SǪL
     -Applying CASE statements in data analysis scenarios
     -Introduction to Common Table Expressions
     -Using CTEs for recursive queries and data manipulation 
 
-## Week 5: More on SQL
+## Week 05: More on SQL
 
-#### Day 9: Time-saving shortcuts and productivity hack
+#### Day 09: Time-saving shortcuts and productivity hack
 
     -Optimization of queries
     -Optimization of queries using AI
@@ -111,7 +111,7 @@ Day 2: Data Manipulation with Python
 Conditional statements and loops
 User deﬁned functions
 Functions such as map, ﬁlter, lambda
-07Week 7: Exploring Data with Pandas & Matplotlib
+07Week 07: Exploring Data with Pandas & Matplotlib
 Day 1: Data Manipulation with Pandas
 
 Overview of Pandas Library
