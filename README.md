@@ -46,47 +46,50 @@
   
 #### Day 04: Retrieving Data with SELECT Statements
 
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
+
     -Basics of SELECT statements
     -Filtering data with WHERE clause
     -Sorting results with ORDER BY
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
 ## Week 03: Advanced SǪLTechniques
 #### Day 05: Aggregation and Grouping
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
     -Understanding aggregate functions (SUM, AVG, COUNT)
     -Grouping data with GROUP BY
     -Working with complex WHERE conditions
     -Using operators (AND, OR, NOT, etc)
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day05_20July_%5BSQL%5D/Notes%20-%20Aggregation%26Grouping.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day05_20July_%5BSQL%5D/Aggregation%20%26%20Grouping%20Functions.sql)
 
 #### Day 06: Window Functions and Analytic Ǫueries
 
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
+
     -Introduction to window functions
     -Performing analytic queries with OVER clause
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
 
 ## Week 04: Advance SǪL
-
 #### Day 07: Joins, Subqueries & Case Statements
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
     -Performing INNER and OUTER joins
     -Using subqueries for complex queries
     -Understanding and using CASE statements in SǪL
     -Applying CASE statements in data analysis scenarios 
 
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day07-27July_%5BSQL%5D/Notes%20-%20Joins%20and%20Subqueries.pdf), [Code👨‍💻]()
-
 #### Day 08: Common Table Expression Ǫueries
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
     -Introduction to Common Table Expressions
     -Using CTEs for recursive queries and data manipulation 
 
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
-
 ## Week 05: More on SQL
-
 #### Day 09 & 10: SQL Project - E-commerce Sales Database
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
     -Created and managed a new MySQL database ecommerce_db
     -Built Sales_Dataset table with comprehensive schema for sales data
@@ -98,13 +101,14 @@
         -Conditional flags for discounted orders
         -Top products and state-wise shipping costs
         -Profit margin calculations and filtering profitable products
-        -Advanced queries using CTEs (Common Table Expressions) and window functions (LAG, LEAD)
+        -Advanced queries using Common Table Expressions and window functions (LAG, LEAD)
         -Explained and implemented LIMIT & OFFSET for pagination
         -Differentiated between UNION and UNION ALL
 
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
-
 #### Day 10: Introduction to Python Basics and Data Types
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
+
     -Setting up Jupyter Notebook with Miniconda
     -Performing simple arithmetic operations
     -Understanding core Python data types: int, str, float, bool, and complex
@@ -112,10 +116,10 @@
     -String operations: indexing, slicing, reversing, and palindrome checking
     -Typecasting between data types for flexible data manipulation
 
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
-
 ## Week 06: Python for Data Analysis
 #### Day 11: Python Data Structures and Internal Behaviors
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
     -Understanding variable reassignment and dynamic typing in Python
     -Working with lists: mutable sequences supporting mixed data types
@@ -131,19 +135,39 @@
     -Understanding shallow vs deep copy using Python’s copy module
     -Observing the behavior of nested mutable objects in copied lists
 
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
+#### Day 12: Loops, Conditions & Functional Programming in Python
 
-#### Day 12: Data Manipulation with Python
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
-Conditional statements and loops
-User deﬁned functions
-Functions such as map, ﬁlter, lambda
+    -Repetition using loops:
+        -for loop with range-based and list-based iterations
+        -while loop for conditional repetition
+        -Nested loops and their time complexity (O(n²))
+    -Conditional logic:
+        -if, elif, and else statements with practical examples
+    -Introduction to functions:
+        -Defining and calling user-defined functions
+        -Using return values in arithmetic operations
+    -Lambda functions:
+        -Anonymous functions for quick computations
+    -Built-in functional utilities:
+        -map() to apply transformations across a list
+        -filter() to extract elements based on conditions
+    -List comprehension:
+        -Creating transformed lists with minimal syntax
+        -Example: Cubing all elements in a list
+
 07Week 07: Exploring Data with Pandas & Matplotlib
 Day 1: Data Manipulation with Pandas
 
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
+
 Overview of Pandas Library
 Reading and writing data along with basic operations with Pandas
+
 Day 2: Data Cleaning and Preprocessing with Pandas
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
 Handling missing data
 Removing duplicates and dealing with outliers
