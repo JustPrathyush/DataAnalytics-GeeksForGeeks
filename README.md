@@ -114,14 +114,22 @@
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
 
-## Week 06: Introduction to Python for Data Analysis
-#### Day 11: Introduction to Python and Jupyter Notebooks
+## Week 06: Python for Data Analysis
+#### Day 11: Python Data Structures and Internal Behaviors
 
-    -Overview of Python programming language
-    -Introduction to Jupyter Notebooks for data analysis
-    -Variables, data types, and basic operations
-    -Lists, tuples, and dictionaries
-    -Inbuilt functions
+    -Understanding variable reassignment and dynamic typing in Python
+    -Working with lists: mutable sequences supporting mixed data types
+    -Performing list operations: append(), insert(), index(), reverse()
+    -Accessing nested list elements using multi-level indexing
+    -Comparing list vs tuple: mutability, performance, and use cases
+    -Exploring tuples: immutable sequences, nesting, and index-based access
+    -Introduction to sets: unique unordered collections, auto-duplicate elimination
+    -Performing set operations: add(), remove()
+    -Real-world list deduplication using set()
+    -Exploring dictionaries: key-value storage with dynamic value types
+    -Dictionary operations: get(), update(), pop(), keys(), values(), items()
+    -Understanding shallow vs deep copy using Python’s copy module
+    -Observing the behavior of nested mutable objects in copied lists
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/Notes%20-%20Window%20Functions%20%26%20Analytic%20Queries.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/main/Day06_21July_%5BSQL%5D/WindowFunctions%20%26%20Analytic%20Queries.sql)
 
