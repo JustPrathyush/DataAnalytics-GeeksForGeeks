@@ -157,27 +157,24 @@
         -Creating transformed lists with minimal syntax
         -Example: Cubing all elements in a list
 
-07Week 07: Exploring Data with Pandas & Matplotlib
-Day 1: Data Manipulation with Pandas
+## Week 07: Exploring Data with Pandas & Matplotlib
+#### Day 13 & 14: Data Manipulation with Pandas
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
-Overview of Pandas Library
-Reading and writing data along with basic operations with Pandas
-
-Day 2: Data Cleaning and Preprocessing with Pandas
-
-[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
-
-Handling missing data
-Removing duplicates and dealing with outliers
-Cleaning and adjustments in data
-08Week 8: EDA & Data Visulization
-Day 1: Exploratory Data Analysis (EDA) with Pandas
+    -Overview of Pandas Library
+    -Reading and writing data along with basic operations with Pandas
+    -Handling missing data
+    -Removing duplicates and dealing with outliers
+    -Cleaning and adjustments in data
+    
+## Week 8: EDA & Data Visulization
+#### Day 1: Exploratory Data Analysis (EDA) with Pandas
 
 Descriptive statistics and data summarization
 Grouping and aggregating data
 SǪL like operation in data
+
 Day 2: Data Visualization with Matplotlib
 
 Creating basic plots (line plots, scatter plots, histograms)
