@@ -158,6 +158,23 @@
         -Example: Cubing all elements in a list
 
 ## Week 07: Exploring Data with Pandas & Matplotlib
+#### Day 13: Practice Assignments – Logic Building & Functional Thinking
+
+[Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
+
+    -FizzBuzz implementation with conditional logic
+        -if-elif-else chain to print "Fizz", "Buzz", or "FizzBuzz" based on divisibility
+        -Time Complexity: O(n)
+        -Space Complexity: O(1)
+    -Prime number checker function
+        -Naive approach using basic loops
+        -Early returns for optimization
+    -Filter odd numbers from a list using filter() + lambda
+    -Compute lengths of strings longer than 3 characters using map() and filter()
+    -Filter values not divisible by 3, then double the result using map()
+
+
+
 #### Day 13 & 14: Data Manipulation with Pandas
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
@@ -179,7 +196,8 @@ Day 2: Data Visualization with Matplotlib
 
 Creating basic plots (line plots, scatter plots, histograms)
 Customizing and styling visualizations
-09Week 9: Real-time Python
+
+## Week 9: Real-time Python
 Day 1: Advanced Data Analysis with NumPy
 
 Introduction to NumPy for numerical operations
@@ -188,7 +206,8 @@ Day 2: Advanced Data Visualization with Seaborn
 
 Creating informative and aesthetically pleasing visualizations
 Pair plots, heatmaps, and advanced plotting technique 
-10Week 10: Statistical Analysis
+
+## Week 10: Statistical Analysis
 Day1: Statistical Analysis with Scipy
 
 Introduction to statistical tests and hypothesis testing
@@ -204,7 +223,8 @@ Introduction to Power BI
 Understanding the Power BI interface
 Importing data from different sources
 Transforming and shaping data within Power BI
-11Week 11: Power BI
+
+## Week 11: Power BI
 Day 1: Data Modeling and Relationships in Power BI
 
 Creating a data model in Power BI
@@ -222,7 +242,8 @@ Principles of Effective Data Storytelling
 Importance of narrative in data presentations
 Building a cohesive narrative in Power BI
 Using bookmarks and storytelling features
-12Week 12: Power BI for Real-Time Analytics and Advanced Features
+
+## Week 12: Power BI for Real-Time Analytics and Advanced Features
 Day 1: Real-Time Dashboards
 
 Setting up real-time data streaming in Power BI
