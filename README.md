@@ -175,7 +175,7 @@
 
 
 
-#### Day 13 & 14: Data Manipulation with Pandas
+#### Day 13-15: Data Manipulation with Pandas
 
 [Notes📒](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Day4_Notes.pdf),  [Code👨‍💻](https://github.com/JustPrathyush/DataAnalytics-GeeksForGeeks/blob/faf08ce64ee87dd584ba96fbb10ddde49354912b/Day04_14July_%5BSQL%5D/Retrieving%20Data%20with%20SELECT%20Statements.sql)
 
